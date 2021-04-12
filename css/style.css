@@ -356,14 +356,14 @@ body {
 
 .modal {
     position: absolute;
-    top: 60%;
+    top: 40%;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
     width: 300px;
     padding: 20px;
-    background: rgba(255, 255, 255, 0.247);
+    background: rgba(255, 255, 255, .9);
     border-radius: 20px;
     display: -webkit-box;
     display: -ms-flexbox;
